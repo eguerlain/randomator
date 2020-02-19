@@ -17,7 +17,8 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "jsx": "react"
+    "jsx": "react",
+    // "baseUrl": "src" // Can't use absolute import because clashing with Sass imports :/
   },
   "include": [
     "src"

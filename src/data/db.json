@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Pedzouille",
+        "icon": "🍗",
+        "address": "66 rue du Faubourg Poissonnière",
+        "proximity": 7,
+        "healthy": false,
+        "cost": 15,
+        "light": false,
+        "speed": 6
+    },
+    {
+        "name": "Tuti",
+        "icon": "🥡",
+        "address": "12 rue du Faubourg Poissonnière",
+        "proximity": 1,
+        "healthy": false,
+        "cost": 9,
+        "light": false,
+        "speed": 1
+    },
+    {
+        "name": "Kyu",
+        "icon": "🍲",
+        "address": "11 rue du Faubourg Poissonnière",
+        "proximity": 1,
+        "healthy": true,
+        "cost": 13,
+        "light": false,
+        "speed": 6
+    },
+    {
+        "name": "De Clerc",
+        "icon": "🍟",
+        "address": "67 rue du Faubourg Montmartre",
+        "proximity": 5,
+        "healthy": false,
+        "cost": 9,
+        "light": false,
+        "speed": 4
+    },
+    {
+        "name": "La Belle Ferme",
+        "icon": "🥔",
+        "address": "4 rue du Faubourg Poissonnière",
+        "proximity": 1,
+        "healthy": true,
+        "cost": 10,
+        "light": false,
+        "speed": 3
+    },
+    {
+        "name": "Roomies",
+        "icon": "🍔",
+        "address": "13 rue du Faubourg Poissonnière",
+        "proximity": 1,
+        "healthy": false,
+        "cost": 14,
+        "light": false,
+        "speed": 4
+    },
+    {
+        "name": "Acquerello",
+        "icon": "🍕",
+        "address": "40 bis Rue du Faubourg Poissonnière",
+        "proximity": 3,
+        "healthy": false,
+        "cost": 13,
+        "light": false,
+        "speed": 5
+    },
+    {
+        "name": "Dionysos",
+        "icon": "🧆",
+        "address": "14 Rue des Petits Carreaux",
+        "proximity": 7,
+        "healthy": true,
+        "cost": 12,
+        "light": false,
+        "speed": 5
+    },
+    {
+        "name": "Schwartz",
+        "icon": "🌭",
+        "address": "54 Rue du Faubourg Poissonnière",
+        "proximity": 5,
+        "healthy": false,
+        "cost": 9,
+        "light": true,
+        "speed": 3
+    }
+]

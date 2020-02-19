@@ -1,0 +1,16 @@
+@import ../style
+
+.button
+    background-color: $primary
+    +font($big, $bold)
+    color: $white
+    padding: 40px 60px
+    border-radius: 60px
+    border-style: none
+    transition: all 300ms
+
+    &:focus
+        outline: none
+
+    &:active
+        background-color: $primary-pressed
