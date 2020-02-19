@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/randomator/static/css/main.37475b31.chunk.css",
+    "main.js": "/randomator/static/js/main.6ebc0de0.chunk.js",
+    "main.js.map": "/randomator/static/js/main.6ebc0de0.chunk.js.map",
+    "runtime-main.js": "/randomator/static/js/runtime-main.a08c9ca5.js",
+    "runtime-main.js.map": "/randomator/static/js/runtime-main.a08c9ca5.js.map",
+    "static/js/2.6dd9f5a1.chunk.js": "/randomator/static/js/2.6dd9f5a1.chunk.js",
+    "static/js/2.6dd9f5a1.chunk.js.map": "/randomator/static/js/2.6dd9f5a1.chunk.js.map",
+    "index.html": "/randomator/index.html",
+    "precache-manifest.f4a5993741dd3b0ff92c3c396f6f8e95.js": "/randomator/precache-manifest.f4a5993741dd3b0ff92c3c396f6f8e95.js",
+    "service-worker.js": "/randomator/service-worker.js",
+    "static/css/main.37475b31.chunk.css.map": "/randomator/static/css/main.37475b31.chunk.css.map",
+    "static/js/2.6dd9f5a1.chunk.js.LICENSE.txt": "/randomator/static/js/2.6dd9f5a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a08c9ca5.js",
+    "static/js/2.6dd9f5a1.chunk.js",
+    "static/css/main.37475b31.chunk.css",
+    "static/js/main.6ebc0de0.chunk.js"
+  ]
+}
